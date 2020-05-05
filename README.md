@@ -1,2 +1,3 @@
-# week3
-week3 stuff
+# wop-starters
+
+Choose a branch and download as zip.
