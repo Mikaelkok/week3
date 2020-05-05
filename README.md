@@ -1,3 +1,1 @@
-# wop-starters
-
-Choose a branch and download as zip.
+asd week3 stuff, missing cookies
