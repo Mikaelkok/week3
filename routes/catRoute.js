@@ -2,6 +2,7 @@
 // catRoute
 const express = require('express');
 const router = express.Router();
+const {body, check} = require('express-validator');
 const multer = require('multer');
 const upload = multer({dest: './uploads/'});
 const catController = require('../controllers/catController');
